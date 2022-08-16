@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+venv
+.idea
 # launch bash
 *.sh
 # nsight system report files
